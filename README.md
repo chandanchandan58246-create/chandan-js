@@ -1,65 +1,82 @@
 # 👋 Hi, I'm Chandan
 
-### Frontend Developer | JavaScript Developer
+### 💻 Aspiring Full-Stack Developer | JavaScript Developer
 
-I'm a frontend developer who enjoys building interactive and user-friendly web applications using modern web technologies.
+I'm a beginner developer who enjoys learning by building real projects. I'm currently improving my JavaScript skills and learning how frontend and backend applications work together.
 
-I’m currently focused on improving my JavaScript skills, building real-world projects, and learning how to write clean and maintainable code.
+I believe in learning by doing, fixing bugs, and building projects step by step. 🚀
 
----
+## 🧑‍💻 About Me
 
-## 🚀 About Me
+- 🌱 Currently learning **React.js, Node.js, and Express.js**
+- ⚡ Practicing JavaScript, DOM manipulation, and asynchronous programming
+- 🔗 Learning to connect frontend applications with backend APIs
+- 🚆 Built a Railway Live Status web application and deployed it on Render
+- 🛠️ Improving my debugging and problem-solving skills
+- 🎯 Goal: Become a skilled Full-Stack Developer
 
-- 💻 Frontend Developer
-- 🌐 Interested in Web Development
-- ⚡ JavaScript enthusiast
-- 🧠 Currently improving my JavaScript & DOM skills
-- 🔨 I enjoy building projects while learning
-- 🎯 Goal: Become a strong Full-Stack Developer
+## 🛠️ Skills & Technologies
 
----
-
-## 🛠️ Technologies & Tools
-
-### Frontend
+### Languages & Frontend
 - HTML5
 - CSS3
-- JavaScript
-- DOM Manipulation
-- Responsive Web Design
+- JavaScript (ES6+)
+- React.js — currently learning
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Cursor
-
-### Currently Learning
-- Advanced JavaScript
-- APIs & Async JavaScript
+### Backend & APIs
 - Node.js
 - Express.js
+- REST APIs
+- Axios
+- JSON
+
+### Tools
+- Git & GitHub
+- VS Code
+- Cursor
+- npm
+- Render
+- Netlify
+
+## 📚 What I'm Learning Right Now
+
+- React components, `useState`, and `useEffect`
+- Fetching API data using Axios
+- Node.js and Express server creation
+- Express routes and sending JSON responses
+- Connecting React frontend with an Express backend
+- Debugging errors and writing JavaScript without relying entirely on tutorials
+
+## 🚀 My Projects
+
+### 🚆 Railway Live Status
+A railway information web application with train status, PNR lookup, train search, and delay information.
+
+- **Live Demo:** [Railway Live Status](https://railway-app-1bi4.onrender.com/)
+- **Source Code:** [GitHub Repository](https://github.com/chandanchandan58246-create/railway-app)
+
+### 🌦️ Weather App
+A weather application built to practice working with APIs and displaying weather information.
+
+- **Live Demo:** [CloudSens Weather App](https://cloudsens.netlify.app/)
+
+### ⚛️ React Jokes App
+A React learning project where I'm practicing state management and fetching data from a backend using Axios.
+
+*Currently learning and improving.*
+
+## 📈 My Learning Journey
+
+I'm continuously improving my coding skills by building projects, understanding errors, and learning how different technologies work together.
+
+My current focus is on becoming confident in JavaScript, React, and backend development before moving toward more advanced full-stack projects.
+
+## 🤝 Connect With Me
+
+- **GitHub:** [@chandanchandan58246-create](https://github.com/chandanchandan58246-create)
 
 ---
 
-## 📌 Projects
+⭐ Thanks for visiting my profile!
 
-Here are some of the projects I've built while learning:
-
-- 🌦️ **Weather App** — Weather information using an API
-- 🚆 **Train Status App** — Train running status and railway information
-- 📝 **Task Manager** — Simple task management application
-- 🎯 **Number Guessing Game** — JavaScript-based guessing game
-- ❓ **MCQ Quiz App** — Interactive quiz application
-- ⌨️ **Typing Speed Tester** — Test typing speed and accuracy
-
-More projects coming soon...
-
----
-
-## 📚 My Learning Journey
-
-I'm continuously learning by:
-
-```text
-Learn → Build → Break → Debug → Improve → Repeat
+**Made with ❤️ by Chandan**
